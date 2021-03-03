@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # False if you want education in main section instead of in sidebar
+    education: True # False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Damian Venter
@@ -42,8 +42,6 @@ education:
     - degree: Bachelors in Information Technology (BIT)
       university: University of Pretoria
       time: 2018 - Present
-      details: |
-        I am a BIT student currently in my final year of a four year degree. I have learnt how to communicate effectively as well as how to think logically and solve problems programatically.
           
 experiences:
     - role: Job Shadowing
@@ -79,6 +77,9 @@ skills:
 
       - name: LAMP stack
         level: 80%
+
+      - name: Neo4j
+        level: 70%
         
       - name: Android Development
         level: 60%
